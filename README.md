@@ -9,7 +9,7 @@
 　2.QGIS本体の保守
  　　ArcGISからQGISへの完全リプレース  
  
-　3.サーバー  　　　　　　　　　WillWave引継予定
+　3.サーバー  　　　　　　　　　WillWave引継予定  
  　　3-1.LGWAN内サーバー  
 　　　ハード　一式  
 　　　DynaCAD用リモートデスクトップ  
