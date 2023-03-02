@@ -6,17 +6,17 @@
   
 　[0.整備方針  ＧＩＳ整備の整備方針](https://github.com/city-soja-chiiki/QGIS/blob/main/0.%E6%95%B4%E5%82%99%E6%96%B9%E9%87%9D.md)  
    
-　1.調書作成システム　　　　　　　　　　 【パスコ】  
+　1.調書作成システム　　　　　　　　　　 [【パスコ】 ](https://www.pasco.co.jp/)   
 　　160万円/年（800万円/5年）  
 
-　[2.QGIS本体の保守](https://github.com/city-soja-chiiki/QGIS/blob/main/2.QGIS%E6%9C%AC%E4%BD%93%E3%81%AE%E4%BF%9D%E5%AE%88.md)　　　　　　　　　　　【アイ・サポート】【WillWave】【GEOソリューションズ】  
+　[2.QGIS本体の保守](https://github.com/city-soja-chiiki/QGIS/blob/main/2.QGIS%E6%9C%AC%E4%BD%93%E3%81%AE%E4%BF%9D%E5%AE%88.md)　　　　　　　　　　　[【アイ・サポート】](http://www.isupport.co.jp/company.html)[【WillWave】](https://www.willwave.jp/)[【GEOソリューションズ】](https://geo-sol.co.jp/)   
  　【概算】40万円/年（200万円/5年）　内訳：10万円×4回
  　　ArcGISからQGISへの完全リプレース  
  
-　[3.サーバー](https://github.com/city-soja-chiiki/QGIS-3)　　　　　　　　　　　　　　【アイ・サポート】【WillWave】  
+　[3.サーバー](https://github.com/city-soja-chiiki/QGIS-3)　　　　　　　　　　　　　　[【アイ・サポート】](http://www.isupport.co.jp/company.html)[【WillWave】](https://www.willwave.jp/)  
  　【概算】100万円/年（500万円/5年）  
              
-　[4.その他台帳用QGISの保守](https://github.com/city-soja-chiiki/QGIS/blob/main/4.%E3%81%9D%E3%81%AE%E4%BB%96%E5%8F%B0%E5%B8%B3%E7%94%A8QGIS%E3%81%AE%E4%BF%9D%E5%AE%88.md)　　　　　　　【アイ・サポート】【GEOソリューションズ】  
+　[4.その他台帳用QGISの保守](https://github.com/city-soja-chiiki/QGIS/blob/main/4.%E3%81%9D%E3%81%AE%E4%BB%96%E5%8F%B0%E5%B8%B3%E7%94%A8QGIS%E3%81%AE%E4%BF%9D%E5%AE%88.md)　　　　　　　[【アイ・サポート】](http://www.isupport.co.jp/company.html)[【GEOソリューションズ】](https://geo-sol.co.jp/)  
  　【概算】64万円/年（320万円/5年）　 内訳：1万円×16プロジェクト×4回  
 　　4-1.LGWAN内のプロジェクトファイル   
 　　　4-1-0.⓪統合型.qgs  
@@ -38,7 +38,7 @@
 　　　4-3-1.道路・河川・水路台帳図 公開用台帳  
 　　　4-3-2.道路維持管理台帳 維持管理台帳（パスワード必要）
   
-  [5.QGISプラグインの開発・保守](https://github.com/city-soja-chiiki/QGIS-5)　　　　【WillWave】【オービタルネット】【GEOソリューションズ】【MIERUNE】  
+  [5.QGISプラグインの開発・保守](https://github.com/city-soja-chiiki/QGIS-5)　　　　[【WillWave】](https://www.willwave.jp/)[【オービタルネット】](https://www.orbitalnet.jp/)[【GEOソリューションズ】](https://geo-sol.co.jp/)[【MIERUNE】](https://www.mierune.co.jp/)  
   　【概算】130万円/年（650万円/5年）   
    
 　2.3.4.5の合計で430万円/年（2150万円/5年）を予定しております。  
