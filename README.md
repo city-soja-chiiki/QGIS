@@ -12,7 +12,7 @@
 
 　[2.QGIS本体の保守](https://github.com/city-soja-chiiki/QGIS/blob/main/2.QGIS%E6%9C%AC%E4%BD%93%E3%81%AE%E4%BF%9D%E5%AE%88.md)  
 　　**[【GEOソリューションズ】](https://geo-sol.co.jp/)**  [掲示板(事務連絡等)はこちら](https://github.com/city-soja-chiiki/QGIS_maintenance/blob/main/README.md)  
- 　【概算】158.4万円/年（792万円/5年）　内訳：6.0万円/回×24回/年×1.1（プロジェクトファイルの保守含む） 
+ 　【概算】現契約継続　保守費用内訳：6.0万円/回×1.1（プロジェクトファイルの保守含む） 
 
 　[3.サーバー](https://github.com/city-soja-chiiki/QGIS-3)  
 　　[【アイ・サポート】](http://www.isupport.co.jp/company.html)[【WillWave】](https://www.willwave.jp/)  
@@ -45,7 +45,7 @@
  　　[【WillWave】](https://www.willwave.jp/)[【オービタルネット】](https://www.orbitalnet.jp/)[【GEOソリューションズ】](https://geo-sol.co.jp/)[【MIERUNE】](https://www.mierune.co.jp/)  
   　【概算】130万円/年（650万円/5年）   
    
-　2.3.4.5の合計で430万円/年（2150万円/5年）を予定しております。  
- 　【調整中概算】41.6万円/年（208万円/5年）  
+　1.3.5の合計で438万円/年（2190万円/5年）を予定しております。  
+ 　【調整中概算】48万円/年（240万円/5年）  
  　つきましては9月中を目途に概算の調整を希望です。  
 -
