@@ -42,7 +42,7 @@
 　　　4-3-2.道路維持管理台帳 維持管理台帳（パスワード必要）
   
 ### [5.QGISプラグインの開発・保守](https://github.com/city-soja-chiiki/QGIS-5)  
- 　　[【WillWave】](https://www.willwave.jp/)[【オービタルネット】](https://www.orbitalnet.jp/)[【GEOソリューションズ】](https://geo-sol.co.jp/)[【MIERUNE】](https://www.mierune.co.jp/)  
+ 　　[【オービタルネット】](https://www.orbitalnet.jp/)[【GEOソリューションズ】](https://geo-sol.co.jp/) 
   　【概算】130万円/年（650万円/5年）     
 
 ### 全体概要  
